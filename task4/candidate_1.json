@@ -1,0 +1,96 @@
+
+[
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "Robert Smith", "location": "Alabama", "contact": "(123) 456 78 99" },
+      "education": [{ "degree": "Diploma", "institution": "Not Specified" }],
+      "experience": [
+        { "designation": "Data Scientist", "company": "Best Buy", "tenure": "2015–2019", "impact": "Sales Forces allocation and social media data for market penetration" },
+        { "designation": "Data Scientist", "company": "ABC Corporation", "tenure": "2014–2015", "impact": "Analyzed customer behavior using machine learning" }
+      ],
+      "skills": { "technical": ["Data Entry", "Analyzing"], "non_technical": ["Planning"] }
+    }
+  },
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "Jackson Thompson", "location": "Austin, Texas", "contact": "help@enhancv.com" },
+      "education": [{ "degree": "M.S. in Data Science", "institution": "University of Texas at Austin", "tenure": "2016–2018" }],
+      "experience": [
+        { "designation": "Data Scientist", "company": "Google", "tenure": "2020–Ongoing", "impact": "Optimized recommender system; 15% accuracy increase" },
+        { "designation": "Data Analyst", "company": "IBM", "tenure": "2018–2020", "impact": "KPI monitoring dashboards; 30% data cleaning accuracy increase" },
+        { "designation": "Machine Learning Intern", "company": "Facebook", "tenure": "2017–2018", "impact": "Reduced fake news detection time by 25%" }
+      ],
+      "skills": { "technical": ["Python", "TensorFlow", "PyTorch", "NLP", "Computer Vision"] }
+    }
+  },
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "Maria Tanner, Ph.D.", "location": "Sometown, CA", "contact": "mt@somedomain.com" },
+      "education": [
+        { "degree": "Ph.D. in Statistics", "institution": "ABC University" },
+        { "degree": "MA in Behavioral Economics", "institution": "ABC University" }
+      ],
+      "experience": [
+        { "designation": "Data Scientist", "company": "ABC, Inc.", "tenure": "2008–Present", "impact": "Grew revenue from $1.2B to $3.25B" },
+        { "designation": "Adjunct faculty", "company": "ABC and XYZ Universities", "impact": "Teaching statistics and economics" }
+      ],
+      "skills": { "technical": ["Spark", "R", "Python", "Scala", "SQL", "Tableau", "AWS", "Predictive Modeling", "Big Data Queries", "BI"] }
+    }
+  },
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "Paul Desmond", "location": "Lowell, MA", "contact": "pa.desmond038@gmail.com" },
+      "education": [{ "degree": "Master's in Data Science", "institution": "Bay Path University", "GPA": 3.8 }],
+      "experience": [
+        { "designation": "Principal Data Scientist", "company": "Danaher", "tenure": "2017–2021", "impact": "Led technology optimization and migration" },
+        { "designation": "Data Scientist", "company": "Abiomed", "tenure": "2014–2017", "impact": "Designed statistical features for time series data" }
+      ],
+      "skills": { "technical": ["Microsoft Certified", "Modeling", "AIOps", "Embedded hardware algorithms"] }
+    }
+  },
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "Anne Lounsberry", "location": "Not Specified", "contact": "anne.c.lounsberry@gmail.com" },
+      "education": [{ "degree": "MSc in Statistics", "institution": "UCLA" }],
+      "experience": [
+        { "designation": "Senior Data Scientist", "company": "ACB Inc.", "tenure": "2013–2019", "impact": "Saved $420,000 annually; 23% production efficiency increase" },
+        { "designation": "Machine Learning Specialist", "company": "AnyCompany", "impact": "30% customer retention increase" }
+      ],
+      "skills": { "technical": ["Python", "R", "Java", "Scala", "Data Mining"] },
+      "certifications": ["Google Certified Professional Data Engineer", "Microsoft Professional Program Certificate in Data Science"]
+    }
+  },
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "Robert Smith (Volunteer)", "location": "Not Specified", "contact": "info@qwikresumc.com" },
+      "education": [{ "degree": "Not Specified", "institution": "Not Specified" }],
+      "experience": [
+        { "designation": "Volunteer Data Scientist", "company": "ABC Corporation", "tenure": "2015", "impact": "Analyzed MTA subway and NYC census data" },
+        { "designation": "Data Scientist", "company": "ABC Corporation", "tenure": "2010–2015", "impact": "Built artificial neural networks for leaf classification" }
+      ],
+      "skills": { "technical": ["MapReduce", "Pig Latin", "Hadoop", "Python", "Matlab", "Keras", "SQL", "Spark"] }
+    }
+  },
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "John Smith", "location": "Dania Beach, FL", "contact": "johnsmith@email.com" },
+      "education": [{ "degree": "BA Computer Science Engineering", "institution": "Florida Polytechnic University", "tenure": "2015–2019" }],
+      "experience": [
+        { "designation": "Data Science Intern", "company": "Chewy", "tenure": "2021–Present", "impact": "Building real-time analytics dashboards" },
+        { "designation": "Data Science Intern", "company": "Procter", "tenure": "2019–2021", "impact": "Increased model performance by 62%" }
+      ],
+      "skills": { "technical": ["Tableau", "D3.js", "Hive", "Pig", "NLP", "Chatbot"] }
+    }
+  },
+  {
+    "candidate_profile": {
+      "personal_info": { "name": "Charlotte May", "location": "Phoenix, AZ", "contact": "latishaham@hey.com" },
+      "education": [{ "degree": "BS: Data Science", "institution": "UC Berkeley", "GPA": 4.0 }],
+      "experience": [
+        { "designation": "Senior Data Scientist", "company": "Dell", "tenure": "2018–Present", "impact": "250% increase in search marketing revenue" },
+        { "designation": "Senior Data Scientist", "company": "Metro", "tenure": "2018–2020", "impact": "Hardware malfunction prediction with 80% accuracy" }
+      ],
+      "skills": { "technical": ["C++", "C", "Statistical Algorithms", "Parallel Processing"] }
+    }
+  }
+]
